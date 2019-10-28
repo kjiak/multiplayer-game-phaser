@@ -1,4 +1,4 @@
-# Multiplayer-game
+# Multiplayer-game-phaser
 Implementation of multiplayer-game via phaser3, express and socket.io <br>
 
 All credits to phasertutorials <br>
